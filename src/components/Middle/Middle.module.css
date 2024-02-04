@@ -1,0 +1,17 @@
+.middle_container{
+  max-width: 1120px;
+  height: 152px;
+  margin: 0 auto;
+}
+
+h1{
+  font-weight: 800;
+  font-size: 48px;
+}
+p{
+  font-weight: 600;
+  font-size: 16px;
+  color: grey;
+  max-width: 1003px;
+  height: 72px;
+}
